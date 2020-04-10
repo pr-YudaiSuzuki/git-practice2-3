@@ -1,5 +1,5 @@
 - [X] 個人アカウントに"git-practice2"レポジトリを作成する
 - [x] "master"が表示される静的サイトを作成し、github pagesに反映する
-- [ ] developブランチを作成する
-- [ ] "feature"が表示される静的サイトをfeatureブランチからGit-flowに沿ってmergeする
+- [x] developブランチを作成する
+- [x] "feature"が表示される静的サイトをfeatureブランチからGit-flowに沿ってmergeする
 - [ ] "hotfix"が表示される静的サイトをhotfixブランチからGit-flowに沿ってmergeする
